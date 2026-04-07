@@ -1,0 +1,14 @@
+Authors and contributors
+------------------------
+
+Original CUDA implementation:
+- Christian Buchner
+- Christian H.
+
+Major improvements and algorithms:
+- Tanguy Pruvot (tpruvot)
+- djm34, tsiv, sp, klausT
+- Many others from the original cpuminer and ccminer projects.
+
+Fork maintainer:
+- David Salas (ccminer-next)
