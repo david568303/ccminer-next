@@ -13,5 +13,5 @@ This project requires some libraries to be built :
 - Curl (prebuilt for win)
 - pthreads (prebuilt for win)
 
-To rebuild them, you need to clone this repository and its submodules :
-    git clone https://github.com/peters/curl-for-windows.git compat/curl-for-windows
+# To rebuild them, you need to clone this repository and its submodules :
+    $ git clone https://github.com/peters/curl-for-windows.git compat/curl-for-windows
